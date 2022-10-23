@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi,I'm Sonal Shabir! 
+I'm a 3rd Year, CSE Undergraduate studying at SRM Institute of Science and Technology. 
+I'm also currently specializing in Big Data Analytics as part of my course curriculum, my professional electives being Data Mining and Data Science. 
+I'm currently learning HTML/CSS, Power BI, WEKA and R. These programming languages and data visualizers heavily contribute to the path I want to take in the far future. 
+I'm collaborating with my classmates to create a Full Stack chatroom application. (Computer Networks)
+That's pretty much it! 
+Check out my repositories below :)) 
 <!--
 **sonal1502/sonal1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
