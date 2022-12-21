@@ -9,13 +9,10 @@ Skills:  C / C++ /  PYTHON / R /REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Data Science related skills that will help me jump start my career. 
 - 📫 How to reach me:  sonalshabir15@gmail.com 
 - 😄 Pronouns: she/her 
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonal1502)](https://github.com/ryo-ma/github-profile-trophy) 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sonal1502)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sonalshabir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sonalshabir15.wixsite.com/per-sonal-touch)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sonal1502)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonal1502)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonal1502)](https://github.com/anuraghazra/github-readme-stats)   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sonal1502&show_icons=true)  
 
