@@ -1,21 +1,25 @@
-### Hi,I'm Sonal Shabir! 
-I'm a 3rd Year, CSE Undergraduate studying at SRM Institute of Science and Technology. 
+### Hi there 👋, I'm Sonal
+#### I'm a 3rd Year, CSE Undergraduate studying at SRM Institute of Science and Technology. 
 I'm also currently specializing in Big Data Analytics as part of my course curriculum, my professional electives being Data Mining and Data Science. 
-I'm currently learning HTML/CSS, Power BI, WEKA and R. These programming languages and data visualizers heavily contribute to the path I want to take in the far future. 
-I'm collaborating with my classmates to create a Full Stack chatroom application. (Computer Networks)
-That's pretty much it! 
-Check out my repositories below :)) 
-<!--
-**sonal1502/sonal1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning HTML/CSS, Power BI, WEKA and R. These programming languages and data visualizers will heavily contribute to the path I want to take in the far future. 
 
-Here are some ideas to get you started:
+Skills:  C / C++ /  PYTHON / R /REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a large scale prediction analysis project using web scraped data. 
+- 🌱 I’m currently learning Data Science related skills that will help me jump start my career. 
+- 📫 How to reach me:  sonalshabir15@gmail.com 
+- 😄 Pronouns: she/her 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sonal1502)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sonalshabir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sonalshabir15.wixsite.com/per-sonal-touch)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonal1502)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonal1502)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sonal1502&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/sonal1502)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sonal1502)  
+
